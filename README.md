@@ -15,4 +15,4 @@ In this project, I'm building an ETL (Extract, Transform, Load) pipeline using t
 3. **Load:** I use AWS tools to smoothly move and store my organized data, and apply queries in Athena to get the information I want.
    
 
-This process of extracting data from the playlistis is automated using CloudWatch, which is stored in Amazon S3. Then I use a trigger to run the spotify_transformation_load_function.py function whenever a file is added to S3 through CloudWatch.
+This process of extracting data from the playlists is automated using CloudWatch, which is then stored in Amazon S3. Then I use a trigger to run the spotify_transformation_load_function.py function whenever a file is added to S3 through CloudWatch.
