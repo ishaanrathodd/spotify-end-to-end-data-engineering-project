@@ -2,6 +2,9 @@
 
 Hey there! 👋 Welcome to my project. Here's a quick rundown of what I'm up to:
 
+![image](https://github.com/ishaanrathodd/spotify-end-to-end-data-engineering-project/assets/90642857/d3534425-04e2-4839-9b71-065e73de5f5b)
+
+
 ## Project Overview
 
 In this project, I'm building an ETL (Extract, Transform, Load) pipeline using the Spotify API and AWS (Amazon Web Services), to extract data from Spotify playlist and store it in AWS as a Dataframe where we have different dataframes for albums,songs and artists.
